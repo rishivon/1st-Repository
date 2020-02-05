@@ -1,2 +1,2 @@
 # 1st-Repository
-TBD
+To be determined
